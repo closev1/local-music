@@ -2,16 +2,24 @@
 #top {
     background: #ffffff;
 }
-image {
-    width: 102px;
-height: 105px;
-}
 h1{
     text-align: center;
+    color: #000;
+    font-family: Judson;
+    font-size: 40px;
+    font-weight: 400;
 }
 h2{
     text-align: center;
+    color: #000;
+    font-family: Judson;
+    font-size: 40px;
+    font-weight: 400;
 }
 footer{
     text-align: center;
+    color: #000;
+    font-family: Judson;
+    font-size: 40px;
+    font-weight: 400;
 }
