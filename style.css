@@ -2,3 +2,8 @@
 #top {
     background: #ffffff;
 }
+head {
+    width: 102px;
+height: 105px;
+flex-shrink: 0;
+}
