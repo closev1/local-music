@@ -2,8 +2,16 @@
 #top {
     background: #ffffff;
 }
-head {
+image {
     width: 102px;
 height: 105px;
-flex-shrink: 0;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+footer{
+    text-align: center;
 }
