@@ -37,3 +37,8 @@ head{
     width: 10px;
 height: 10px;
 }
+header{
+    background-color: #d3d3d3;
+    padding: 50px;
+    color: #ffffff;
+}
