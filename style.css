@@ -44,3 +44,8 @@ section{
     text-emphasis-color: white
     ;
 }
+body{
+    background-image: url('guitars.webp');
+    background-size: cover;
+     min-height: 360px;
+}
