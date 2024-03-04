@@ -39,6 +39,8 @@ nav{
 height: 50px;
 }
 section{
-    background-color: #d3d3d3;min-width: 100%;
+    background-color: #444444;min-width: 100%;
     padding: 20px;
+    text-emphasis-color: white
+    ;
 }
