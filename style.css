@@ -38,7 +38,7 @@ section{
     ;
 }
 nav{
-    background: url('Microphone.png');
+    background-image: url('Microphone.png');
     width: 100px;
     height: 100px;
 }
