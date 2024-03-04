@@ -39,6 +39,7 @@ height: 10px;
 }
 section{
     background-color: #d3d3d3;
-    padding: 50px;
+    padding: 20px;
     color: #ffffff;
+    min-width: 360px;
 }
