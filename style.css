@@ -37,7 +37,7 @@ section{
     text-emphasis-color: white
     ;
 }
-nav{
+frame{
     background-image: url('Microphone.png');
     background-size: cover;
 }
