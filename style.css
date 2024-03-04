@@ -23,3 +23,6 @@ footer{
     font-size: 40px;
     font-weight: 400;
 }
+header{
+    background-image: url('vinyl.jpg');
+}
