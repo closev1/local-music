@@ -38,8 +38,7 @@ head{
 height: 10px;
 }
 section{
-    background-color: #d3d3d3;
+    background-color: #d3d3d3;min-width: 360px;
     padding: 20px;
     color: #ffffff;
-    min-width: 360px;
 }
