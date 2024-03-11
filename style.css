@@ -37,7 +37,8 @@ section{
     text-emphasis-color: white
     ;
 }
-frame{
+img{
     background-image: url('Microphone.png');
     background-size: cover;
+    max-height: 10px;
 }
