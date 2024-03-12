@@ -37,9 +37,3 @@ section{
     text-emphasis-color: white
     ;
 }
-h3{
-    background-image: url('Microphone.png');
-    background-size: cover;
-    max-height: 10px;
-    max-width: 10px;
-}
