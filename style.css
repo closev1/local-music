@@ -25,7 +25,7 @@ footer{
     background: #d3d3d3;
     padding: 50px;
 }
-header{
+image{
     background-image: url('vinyl.jpg');
     background-size: cover;
     min-height: 360px;
