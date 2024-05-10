@@ -1,7 +1,8 @@
 /* your styles will go here!! */
-#top {
+#body {
     background: #ffffff;
 }
+
 h1{
     text-align: center;
     color: #000;
@@ -16,7 +17,8 @@ h2{
     font-size: 64px;
     font-weight: 400;
 }
-footer{
+
+Header, footer{
     text-align: center;
     color: #000;
     font-family: Judson;
@@ -25,7 +27,7 @@ footer{
     background: #d3d3d3;
     padding: 50px;
 }
-header{
+image{
     background-image: url('vinyl.jpg');
     background-size: cover;
     min-height: 360px;
@@ -40,3 +42,18 @@ height: 143px;
 flex-shrink: 0;
     ;
 }
+ul {
+    margin: 30px auto;
+    padding: 0 20;
+    text-align: center;
+  }
+  
+  li {
+    color: #000;
+    font-family: 'Bungee';
+    font-size: 24x;
+    font-weight: 300;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100x;
+  }
