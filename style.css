@@ -11,11 +11,12 @@ h1{
 }
 h2{
     text-align: center;
-    color: #ffffff;
+    color: #000000;
     font-family: Jura
-    font-size: 64px;
+    font-size: 95px;
     font-weight: 400;
 }
+
 footer{
     text-align: center;
     color: #000;
@@ -25,7 +26,7 @@ footer{
     background: #d3d3d3;
     padding: 50px;
 }
-image{
+main{
     background-image: url('vinyl.jpg');
     background-size: cover;
     min-height: 360px;
@@ -54,3 +55,7 @@ ul {
     text-transform: uppercase;
     display: inline-block;
     width: 100x;
+img {
+    width: 100%;
+    height: auto;
+}
