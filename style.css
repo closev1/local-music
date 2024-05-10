@@ -1,37 +1,6 @@
 /* your styles will go here!! */
 #top {
     background: #ffffff;
-    body {
-        background-color: #FFF;
-        margin: 0 auto;
-      }
-      
-      header {
-        background-color: #466995;
-        border-bottom: 1px solid #466995;
-        position: fixed;
-        width: 100%;
-        z-index: 10;
-      }
-      
-      ul {
-        margin: 30px auto;
-        padding: 0 20px;
-        text-align: center;
-      }
-      
-      li {
-        color: #FFF;
-        font-family: 'Oswald', sans-serif;
-        font-size: 15px;
-        font-weight: 300;
-        text-transform: uppercase;
-        display: inline-block;
-        width: 80px;  
-      }
-      
-      li:hover {
-        color: #DBE9EE;
 }
 h1{
     text-align: center;
@@ -50,8 +19,8 @@ h2{
 footer{
     text-align: center;
     color: #000;
-    font-family: Judra
-    font-size: 20px;
+    font-family: Judson;
+     font-size: 20px;
     font-weight: 400;
     background: #d3d3d3;
     padding: 50px;
