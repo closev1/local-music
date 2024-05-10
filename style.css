@@ -35,5 +35,8 @@ section{
     background-color: #3F3F3F;min-width: 100%;
     padding: 20px;
     text-emphasis-color: white
+    width: 1440px;
+height: 143px;
+flex-shrink: 0;
     ;
 }
